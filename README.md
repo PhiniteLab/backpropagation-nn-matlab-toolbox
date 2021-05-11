@@ -12,11 +12,12 @@ NEURAL NETWORK LIBRARY - BACKPROPAGATION ALGORITHM
  
  I hope it is useful for you :)
  
-  There are seven main usage of this library:
+ There are seven main usage of this library:
  
  - establishing model to nonlinear input-output relation
  - estimation for a given system dynamic model
  - training linear output for a given set
+ - multiple classification or modelling line pattern
 
 Which kinds of projects you can utilize the basis of this codes?
 
